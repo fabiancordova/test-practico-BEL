@@ -32,7 +32,7 @@
         <div class="col"> 
        </div>  
     </div>
-        <br>
+    <br>
 
     <!-- código para mostrar información del país seleccionado -->
     <div class="container" v-if="busquedadPais == true">
